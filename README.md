@@ -15,7 +15,7 @@
 This project uses [TheMovieDb](https://api.themoviedb.org) API to search for popular, trending, latest blockbuster movies
 ...
 
-#### Preview of the project
+### Preview of the project
 
 ![](./screenshots/code.png)
 ![](./screenshots/iframe1.png)
